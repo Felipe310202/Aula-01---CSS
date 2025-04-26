@@ -6,6 +6,7 @@ p {
 
    h1{
     color:red;
+    border: 5px solid black;
    }
 
    .corParagrafoX{
@@ -14,4 +15,9 @@ p {
 
    .corParagrafoY{
     background-color: black;
+   }
+
+   .removeBorda{
+    border: none;
+    background-color:white;
    }
